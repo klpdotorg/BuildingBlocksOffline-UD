@@ -1,0 +1,76 @@
+{"frames": [
+
+{
+	"filename": "backbtn",
+	"frame": {"x":287,"y":0,"w":95,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":47},
+	"sourceSize": {"w":95,"h":47}
+},
+{
+	"filename": "commonBg",
+	"frame": {"x":0,"y":128,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+},
+{
+	"filename": "homeBtn",
+	"frame": {"x":128,"y":0,"w":64,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":128},
+	"sourceSize": {"w":64,"h":128}
+},
+{
+	"filename": "nextBtn",
+	"frame": {"x":64,"y":0,"w":64,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":128},
+	"sourceSize": {"w":64,"h":128}
+},
+{
+	"filename": "progressBar",
+	"frame": {"x":480,"y":0,"w":392,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":392,"h":27},
+	"sourceSize": {"w":392,"h":27}
+},
+{
+	"filename": "replay",
+	"frame": {"x":382,"y":0,"w":98,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":48},
+	"sourceSize": {"w":98,"h":48}
+},
+{
+	"filename": "replayBtn",
+	"frame": {"x":0,"y":0,"w":64,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":128},
+	"sourceSize": {"w":64,"h":128}
+},
+{
+	"filename": "speaker",
+	"frame": {"x":192,"y":0,"w":95,"h":47},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":47},
+	"sourceSize": {"w":95,"h":47}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "phaserTest.png",
+	"format": "RGBA8888",
+	"size": {"w":960,"h":668},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:0bf9f6cb1887f5312f7df62df553b006:a937c3f646c42f839b26c56dbbd1699e:bdcb2e04228608eeb226a686a608fa26$"
+}
+}
