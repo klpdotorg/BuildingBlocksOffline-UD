@@ -1,0 +1,35 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 26 instance 10000",
+	"frame": {"x":0,"y":0,"w":93,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":95},
+	"sourceSize": {"w":93,"h":95}
+}
+,{
+	"filename": "Symbol 26 instance 10001",
+	"frame": {"x":93,"y":0,"w":93,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":95},
+	"sourceSize": {"w":93,"h":95}
+}
+,{
+	"filename": "Symbol 26 instance 10002",
+	"frame": {"x":0,"y":95,"w":93,"h":95},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":95},
+	"sourceSize": {"w":93,"h":95}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "18.0.0.107",
+	"image": "25.png",
+	"format": "RGBA8888",
+	"size": {"w":202,"h":202},
+	"scale": "1"
+}
+}

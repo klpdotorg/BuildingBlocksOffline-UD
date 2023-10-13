@@ -1,0 +1,107 @@
+﻿{"frames": [
+
+{
+	"filename": "Symbol 1 instance 10000",
+	"frame": {"x":0,"y":0,"w":181,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10001",
+	"frame": {"x":181,"y":0,"w":181,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10002",
+	"frame": {"x":362,"y":0,"w":181,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10003",
+	"frame": {"x":543,"y":0,"w":181,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10004",
+	"frame": {"x":724,"y":0,"w":181,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10005",
+	"frame": {"x":0,"y":333,"w":181,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10006",
+	"frame": {"x":181,"y":333,"w":181,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10007",
+	"frame": {"x":362,"y":333,"w":181,"h":333},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10008",
+	"frame": {"x":543,"y":333,"w":181,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10009",
+	"frame": {"x":724,"y":333,"w":181,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10010",
+	"frame": {"x":0,"y":666,"w":181,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}
+,{
+	"filename": "Symbol 1 instance 10011",
+	"frame": {"x":181,"y":666,"w":181,"h":327},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":181,"h":333},
+	"sourceSize": {"w":181,"h":333}
+}],
+"meta": {
+	"app": "Adobe Animate",
+	"version": "15.1.0.210",
+	"image": "Rabbit_Idle.png",
+	"format": "RGB8",
+	"size": {"w":936,"h":1024},
+	"scale": "1"
+}
+}
